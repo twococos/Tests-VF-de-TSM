@@ -1,0 +1,381 @@
+
+
+/*--------------------------------------------------------------
+# CSS V/F
+--------------------------------------------------------------*/
+
+.caja {
+  font-family: sans-serif;
+  font-size: 19px;
+  font-weight: 400;
+  color: #000000;
+  background: #D0B1FC;
+  padding: 20px;
+  border-radius: 30px 0px 30px 0px;
+  -moz-border-radius: 30px 0px 30px 0px;
+  -webkit-border-radius: 30px 0px 30px 0px;
+  border: 2px solid #8510AE;
+  text-align: center;
+  font-family: Verdana,sans-serif;
+  margin-bottom: 25px;
+}
+
+
+.botonV { 
+  border: 1px solid #164E04; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #31C81F; /*color botón*/
+  color: #000000; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 20px; /*bordes redondos*/
+  font-size: 30px;
+  box-shadow: 5px 5px #164E04;
+  left: 0;
+  position: absolute;
+}
+.botonV:hover { 
+  background-color: #7FF540; /*color botón*/
+}
+
+.botonV:active{
+  margin-left: 2.5px;
+  margin-top: 2.5px;
+  box-shadow: 2.5px 2.5px #0D3102;
+}
+
+
+.boxvf {
+  position: relative;
+  width: 365px;
+  /*border: 1px solid #000000;*/
+  align-items: center;
+  height: 60px;
+}
+
+.boxseg {
+  position: relative;
+  width: 30%;
+  height: 60px;
+  /*border: 1px solid #000000;*/
+  float: right;
+}
+
+
+.botonF { 
+  border: 1px solid #5F0606; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #C81F36; /*color botón*/
+  color: #000000; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 20px; /*bordes redondos*/
+  font-size: 30px;
+  box-shadow: 5px 5px #5F0606;
+  right: 0;
+  position: absolute;
+}
+
+.botonF:hover {
+  background-color: #F13C54;
+}
+
+.botonF:active{
+  margin-left: 2.5px;
+  margin-top: 2.5px;
+  box-shadow: 2.5px 2.5px #0D3102;
+}
+
+
+
+.botonNext { 
+  border: 1px solid #CF8D13; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #FFC673; /*color botón*/
+  color: #000000; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 10px; /*bordes redondos*/
+  font-size: 30px;
+  box-shadow: 5px 5px #CF8D13;
+  right: 30%;
+  position: absolute;
+}
+
+.botonNext:hover {
+  background-color: #FDD397;
+}
+
+.botonNext:active{
+  margin-left: 2.5px;
+  margin-top: 2.5px;
+  box-shadow: 2.4px 2.4px #8A5F0E;
+}
+
+
+
+
+.verdader{
+  width: 100%;
+}
+
+.respostess{
+  border: 5px solid #2e518b; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  color: #000000; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 5px; /*bordes redondos*/
+  font-size: 20px;
+  width: 370px;
+  text-align: center;
+}
+
+.soluciotext{
+  font-size: 25px;
+  align: center;
+}
+
+
+.barraadalt {
+  font-size: 15px;
+  display: inline-block;
+  background: #FE9237;
+  color: #000000;
+  line-height: 1;
+  padding: 8px 8px;
+  margin-right: 4px;
+  border-radius: 5%;
+  text-align: center;
+  width: 100px;
+  height: 22px;
+  transition: 0.3s;
+  border: 1.5px solid #E76600;
+}
+
+.enrere {
+  color: #000000;
+}
+
+body {
+  background: #E2E3F5;
+  color: #444;
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: #1bb1dc;
+  transition: 0.5s;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: #1218A7;
+  outline: none;
+  text-decoration: none;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 10px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+/*CANVIS EN ELS CANVIS DE DISPOSITIUS*/
+
+@media screen and (max-width: 605px) {
+  .botonV { 
+    top: 0;
+    left: 45px;
+    position: absolute;
+  }
+
+  .boxvf {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    /*border: 1px solid #000000;*/
+    align-items: center;
+    height: 60px;
+  }
+
+  .boxseg {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    /*border: 1px solid #000000;*/
+    float: right;
+  }
+
+  .row{
+    height: 140px;
+  }
+
+  .botonF { 
+    top: 75px;
+    left: 90px;
+    position: absolute;
+  }
+
+  .respostess{
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+  }
+  .barraadalt {
+    font-size: 14px;
+    display: inline-block;
+    background: #FE9237;
+    color: #000000;
+    line-height: 1;
+    padding: 8px 8px;
+    margin-right: 4px;
+    border-radius: 5%;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    transition: 0.3s;
+    border: 1.5px solid #E76600;
+  }
+
+}
+
+
+
+@media screen and (max-width: 350px) {
+  .caja{
+    font-size: 17px;
+  }
+  .botonV { 
+    top: 0;
+    left: 45px;
+    position: absolute;
+    font-size: 25px;
+  }
+
+  .botonF { 
+    top: 75px;
+    left: 85px;
+    position: absolute;
+    font-size: 25px;
+  }
+
+  .boxvf {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    /*border: 1px solid #000000;*/
+    align-items: center;
+    height: 60px;
+  }
+
+  .botonNext { 
+    font-size: 25px;
+    box-shadow: 5px 5px #CF8D13;
+    right: 30%;
+    position: absolute;
+  }
+
+  .boxseg {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    /*border: 1px solid #000000;*/
+    float: right;
+  }
+
+  .row{
+    height: 140px;
+  }
+
+  .respostess{
+    width: 200px;
+    text-align: center;
+  }
+
+  .soluciotext{
+    font-size: 20px;
+    align: center;
+  }
+
+}
+
+@media screen and (max-width: 310px) {
+  .caja{
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .botonV { 
+    top: 0;
+    left: 20px;
+    position: absolute;
+    font-size: 23px;
+  }
+
+  .botonF { 
+    top: 75px;
+    left: 55px;
+    position: absolute;
+    font-size: 23px;
+  }
+
+  .boxvf {
+    position: relative;
+    width: 200px;
+    /*border: 1px solid #000000;*/
+    align-items: center;
+    height: 60px;
+  }
+
+  .botonNext { 
+    font-size: 23px;
+    box-shadow: 5px 5px #CF8D13;
+    right: 30%;
+    position: absolute;
+  }
+
+  .boxseg {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    /*border: 1px solid #000000;*/
+    float: right;
+  }
+
+  .row{
+    height: 130px;
+  }
+
+  .respostess{
+    width: 180px;
+    text-align: center;
+  }
+
+  .soluciotext{
+    font-size: 18px;
+    align: center;
+  }
+  .barraadalt {
+    font-size: 14px;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+  }
+
+}
+

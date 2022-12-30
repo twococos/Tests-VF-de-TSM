@@ -1,0 +1,157 @@
+@import 'https://fonts.googleapis.com/css?family=Rubik+One';
+
+body, html { 
+  margin: 0; 
+  padding: 0; 
+  height: 100%; 
+  width: 100%; 
+  background: #DCE3FA;
+  font-size: 20px;
+  font-family: calibri;
+}
+
+.paragraf {
+	margin-top: 70px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	stroke-linecap: 10px;
+	font-size: 20px;
+}
+%test {
+  position: absolute;
+	content: '';
+	transition: all .5s;
+}
+
+.button { 
+	display: inline-block; 
+	padding: 20px 40px;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	vertical-align: middle;
+	font-family: 'Rubik One', sans-serif;
+	text-decoration: none;
+	font-size: 40px;
+	transition: all .5s;
+	background-color: #630505;
+	box-shadow: 9px 9px #999999;
+}
+
+	.button:active {
+		margin-left: 10px;
+		margin-top: 10px;
+		box-shadow: 5px 5px #666666;
+	}
+
+	/*CANVIS EN DISPOSITIUS*/
+
+	@media screen and (max-width: 650px) {
+		.button { 
+			top: 50%;
+			left: 50%;
+		}
+
+		.paragraf{
+			font-size: 18px;
+		}
+	}
+
+	@media screen and (max-width: 520px) {
+		.button { 
+			position: absolute;
+			top: 450px;
+			left: 50%;
+			font-size: 30px;
+		}
+
+		.paragraf{
+			font-size: 18px;
+			margin-top: 50px;
+			margin-left: 40px;
+		}
+	}
+
+	@media screen and (max-width: 440px) {
+		.button { 
+			position: absolute;
+			top: 450px;
+			left: 50%;
+			font-size: 25px;
+		}
+
+		.paragraf{
+			font-size: 16px;
+			margin-top: 50px;
+			margin-bottom: 35px;
+		}
+	}
+
+	@media screen and (max-width: 340px) {
+		.button { 
+			position: absolute;
+			top: 450px;
+			left: 50%;
+			font-size: 20px;
+		}
+
+		.paragraf{
+			font-size: 16px;
+			margin-top: 40px;
+			margin-left: 40px;
+			margin-right: 40px;
+			margin-bottom: 35px;
+		}
+	}
+
+	@media screen and (max-width: 309px) {
+		.button { 
+			position: absolute;
+			top: 450px;
+			left: 50%;
+		}
+
+		.paragraf{
+			font-size: 16px;
+			margin-top: 40px;
+			margin-left: 30px;
+			margin-right: 30px;
+			margin-bottom: 35px;
+		}
+	}
+	@media screen and (max-width: 280px) {
+		.button { 
+			position: absolute;
+			top: 500px;
+			left: 50%;
+			font-size: 18px;
+		}
+
+		.paragraf{
+			font-size: 16px;
+			margin-top: 40px;
+			margin-left: 30px;
+			margin-right: 30px;
+			margin-bottom: 35px;
+		}
+	}
+
+	@media screen and (max-width: 249px) {
+		.button { 
+			position: absolute;
+			top: 575px;
+			left: 50%;
+			font-size: 18px;
+		}
+
+		.paragraf{
+			font-size: 16px;
+			margin-top: 40px;
+			margin-left: 25px;
+			margin-right: 25px;
+			margin-bottom: 35px;
+		}
+	}

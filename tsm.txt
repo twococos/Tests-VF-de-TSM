@@ -1,0 +1,165 @@
+La expansión en la boquilla se produce debido al comportamiento viscoelástico de los polímeros.;V
+La mayoría de los plásticos termoestables tienen un alto grado de cristalinidad.;F
+"Las dimensiones de la cavidad de un molde utilizado para el moldeo por inyección deben ser más pequeñas que las dimensiones deseadas de la pieza de plástico.";F
+Una placa rompedora se instala después de la zona de dosificación de la extrusora.;V
+El tiempo de enfriamiento del ciclo de inyección depende de la conductividad térmica del polímero.;V
+"Tanto los termoestables como los termoplásticos pueden utilizarse como hojas para el termoconformado.";F
+El niquelado es un recubrimiento de níquel para aumentar la resistencia a la corrosión de piezas de acero. Si la pieza recibe un golpe y salta el recubrimiento en una pequeña zona de la superficie, la pieza sufrirá corrosión por picaduras (potencial de reducción: E_{Ni}^{0} = ?0,25 V / E_{Fe}^{0} = ?0,44 V).;V
+"Una pieza de Al?Zn sometida a esfuerzos cíclicos por debajo del límite elástico, nunca fallará por fatiga.";F
+"La medida del grosor de la subcapa cementada eficaz se realiza a partir de ensayos de microdureza y se estima como la distancia con respecto a la superficie a la que el valor de dureza llega a 550 HV.";V
+El convertidor de oxígeno se sitúa entre el alto horno y el afino en cuchara;V
+La cal es el principal agente desulfurante en el afino en cuchara;V
+Para conocer la ley crítica de temple de un acero lo más correcto es mirar su diagrama TTT;F
+El normalizado es un tratamiento másico isotérmico;F
+La esferoidita es martensita con morfología globular;F
+Se conoce como “acero dulce” al que contiene un carbono mayor a 0.6 %;F
+Si prolongamos el tiempo de austenización, incrementaremos la templabilidad del acero;V
+Los aceros de herramientas suelen tener una microestructura con abundante presencia de carburos;V
+"La dureza de los aceros de herramientas depende únicamente de la cantidad de elementos aleantes y es independiente del contenido en carbono";F
+La fundición de hierro blanca contiene grafito en forma de láminas;F
+Las fundiciones de hierro se caracterizan por su elevada ductilidad;F
+Las piezas de aluminio no suelen reciclarse porque se necesitaría mucha energía para hacerlo;F
+Todas las aleaciones de aluminio se pueden endurecer por envejecimiento o maduración;F
+"Las piezas metálicas fabricadas por moldeo suelen tener propiedades mecánicas inferiores a las producidas por deformación plástica";V
+"En la fabricación por moldeo, la adición de agentes nucleantes sirve para afinar el grano y disminuye las propiedades mecánicas del material";F
+Los poros suelen ser esféricos y los rechupes tienen formas más irregulares;V
+Gracias a la recristalización dinámica se pueden alcanzar grandes niveles de deformación plástica;V
+La deformación en frío introduce más anisotropía que si se deforma en caliente;V
+El trefilado es un proceso que suele efectuarse en caliente;F
+"La presencia de microcavidades en una superficie de fractura suele indicar que se ha producido una fractura de carácter intergranular";F
+Las curvas S?N o de Wöhler indican la vida a fatiga de un material o componente;V
+El afino en cuchara es un proceso necesario solo para el acero obtenido en convertidores LD.;F
+"La sensibilización de los aceros inoxidables se puede evitar utilizando grados L, es decir, limitando el contenido en carbono.";V
+"En la nucleación heterogénea, el agente inoculante ha de tener una temperatura de fusión superior a la del metal líquido.";V
+"Los aceros de herramientas de corte rápido tienen una elevada dureza gracias a la presencia de carburos en su microestructura.";V
+"En los convertidores, el contenido de carbono del arrabio se disminuye mediante reacciones de reducción.";F
+Las fundiciones de hierro nodulares son más tenaces que las laminares.;V
+Los aceros inoxidables austeníticos endurecen gracias al tratamiento térmico de temple.;F
+"En el proceso de obtención del acero, los productos de desbaste obtenidos por colada continua se caracterizan por la presencia de rechupes y mínima segregación.";F
+Las fundiciones ADI se obtienen por tratamiento de austempering de las fundiciones grises.;F
+"Las segregaciones se producen debido a la contracción de solidificación de la mayoría de aleaciones metálicas.";F
+"La martensita es una solución sólida sobresaturada de carbono en una red cúbica centrada en el cuerpo.";F
+Al prolongar el tiempo de austenización, disminuye la templabilidad.;F
+La bainita superior o plumosa tiene menor dureza que la inferior o acicular.;V
+"En las fundiciones de hierro, la presencia de grafito se ve favorecida por el contenido en silicio y una rápida velocidad de enfriamiento.";F
+"La obtención del aluminio a partir de la bauxita consta de dos etapas: proceso Bayer y electrólisis.";V
+Los nervios aumentan la rigidez de una pieza de plástico inyectada;V
+Los nervios nunca provocan rechupes en una pieza de plástico inyectada;F
+La técnica más barata para fabricar un vaso de plástico es el termoconformado;V
+En la inyección de plásticos, puede haber moldes con más de 100 cavidades;V
+"Los tapones de plástico con rosca para botellas de refrescos se pueden fabricar por técnicas basadas en la inyección";V
+Un acero con 0.7% de C en su composición se considera de alto carbono;V
+La fundición blanca contiene grafito en forma de nódulos o esferas;F
+El proceso Mannesmann permite fabricar tubos sin soldadura;V
+Tanto en la laminación como en el trefilado únicamente actúan esfuerzos de compresión;F
+Para fabricar láminas de vidrio se utiliza la tecnología de flotación sobre zinc;F
+La corrosión electroquímica implica una reacción con transferencia de electrones;V
+La reacción de oxidación se produce en el cátodo;F
+Las roturas por stress?corrosion cracking (SCC) pueden ser intergranulares o transgranulares;V
+Orden de módulo elástico de materiales: Metales > Cerámicos > Polímeros;F
+La fractura dúctil se produce por nucleación y coalescencia de microcavidades;V
+Las propiedades mecánicas de los plásticos dependen de la temperatura;V
+Las propiedades mecánicas de los plásticos dependen de la velocidad de solicitación;V
+En el diseño de una pieza de plástico, se suelen poner nervios para incrementar la rigidez;V
+"La técnica más barata para fabricar más de 15.000 unidades diarias de botellas de PET para bebidas carbónicas es extrusión-soplado";F
+"La técnica más barata para fabricar más de 15.000 unidades diarias de envases de yogur es el termoconformado";V
+"El tratamiento de carbonitruración se puede utilizar para endurecer piezas de acero de baja templabilidad ya que el nitrógeno disminuye la velocidad crítica de temple.";V
+"El grosor de la capa sub-capa eficaz de una pieza cementada viene dada por la distancia con respecto a la superficie a la que la dureza es de 550 HV.";V
+"El temple por inducción es un tratamiento térmico que permite endurecer aceros de cualquier contenido en carbono.";F
+"El grosor de la capa cementada depende únicamente de la temperatura y del tiempo de tratamiento.";F
+Cuanto mayor es el grado de deformación en frío, menor es la temperatura de recristalización.;V
+"En una aleación metálica, el esfuerzo necesario para producir una determinada deformación en caliente es independiente de la velocidad a la que se aplique.";F
+Un hilo de cobre se obtiene mediante trefilado, en ausencia de lubricantes.;F
+En un proceso de laminación, la deflexión de los cilindros produce pliegues en las chapas laminadas.;V
+Todas las aleaciones de aluminio pueden endurecerse mediante tratamiento térmico.;F
+"Los micro-rechupes son defectos característicos de componentes de fundición que han solidificado con crecimiento de dendritas largas.";V
+"Las aleaciones metálicas que presentan mejor colabilidad son las que tienen intervalos de solidificación grandes.";F
+"Los componentes metálicos conformados mediante moldeo se caracterizan por su bajo coste y por presentar propiedades mecánicas inferiores a las de los componentes obtenidos por deformación plástica.";V
+El moldeo por inyección se utiliza para fabricar componentes de acero.;F
+"Para conformar piezas metálicas pequeñas, con formas complejas y gran control dimensional, podemos recurrir al moldeo a la cera perdida";V
+La laminación en caliente da lugar a productos fuertemente anisotrópicos;F
+El arrabio posee del orden de 0.4% de carbono.;F
+"El endurecimiento superficial por nitruración de un acero se produce gracias a la formación de martensita.";F
+"Las fundiciones ADI son nodulares y se obtienen mediante tratamiento térmico de austempering o austemplado";V
+"Los aceros nitrurados pueden trabajar a temperaturas más altas que las piezas cementadas.";V
+"En una carbonitruración las temperaturas de revenido son más elevadas que en la cementación.";F
+"Las finalidades de los tratamientos térmicos pueden ser: eliminar las tensiones internas, modificar la micrestructura de un material, homogeneizar concentraciones de elementos químicos y reducir las propiedades mecánicas";F
+"Un diseño variacional es aquel relacionado con un cambio de escala del componente, sin cambiar su funcionalidad";V
+Las industrias que disponen de hornos eléctricos se llaman siderurgias integrales;F
+"En una pieza tratada térmicamente, el tiempo de mantenimiento a una determinada temperatura influye en la homogeneidad química y en el tamaño de grano";V
+Un temple superficial aplicado a un acero con 0.2%C dará mayor dureza que una cementación;F
+"La forma de los polvos metálicos, empleados en el proceso de pulvimetalurgía, es independiente de su técnica de preparación";F
+Los aceros austenizados son magnéticos, dúctiles y resistentes al desgaste;F
+"Para poder laminar, es necesario que la tangente del ángulo de mordida sea inferior al coeficiente de fricción";V
+"El procentaje en peso de martensita formada en un tratamiento térmico isotérmico (martempering) depende del tiempo";F
+"Para facilitar el mecanizado de aceros con un contenido superior al 0,6% se suele realizar un recocido globular o esferoidización";V
+Si una pieza inyectada tiene rebabas el molde puede estar desajustado;V
+Si una pieza inyectada tiene rebabas puede faltar fuerza de cierre;V
+Si una pieza inyectada tiene rebabas el molde está muy caliente;F
+Si una pieza inyectada tiene rebabas el molde está poco atemperado;F
+Las propiedades mecánicas de un polímero varían con la temperatura;V
+Las propiedades mecánicas de un polímero varían con la cristalinidad;V
+Las propiedades mecánicas de un polímero varían con el tiempo;V
+Las propiedades mecánicas de un polímero varían con la orientación del flujo;V
+Un vaso de PE puede obtenerse por moldeo rotacional;V
+Un vaso de PE puede obtenerse por inyeccion;V
+Un vaso de PE puede obtenerse por  termoconformado;V
+Un vaso de PE puede obtenerse por extrusión;F
+La forma mas barata de transformar un termoestable es por compresión;V
+La forma mas barata de transformar un film es por extrusión soplado;V
+La forma mas barata de transformar un envase de natillas es por termoconformado;V
+La forma mas barata de transformar una maceta de 200 litros es por moldeo rotacional;V
+"Una botella de refrescos transparente de PET se obtiene per inyección de una preforma y posterior sopladodelamismaentrelaTgylaTm";V
+Unenvasedenatillasmuybaratoseobtieneportermoconformado;V
+Unamalladeplásticoseobtieneporextrusiónutilizándoseunaboquillamóvil;V
+Labañeradeunjacuzzipuedefabricarsepormoldeorotacional;V
+Lostratamientosdecementaciónycarbonitruraciónsesuelenaplicarafundicionesgrisesynodulares;F
+Elmoldeoalaceraperdidaestípicamenteaplicadoenmaterialescerámicos;F
+Losaceroscalmadospresentanhomogeneidadquímicaydepropiedadesentodoellingote;V
+Laspiezasobtenidasporpulvimetalúrgiasonmenosdensasquelasforjadas;V
+Eltrefiladoesunmétododeprocesadodematerialesmetálicospor deformaciónplásticaenfrío;V
+"Elprocesadodevidrioporflotaciónsobreunbañodeestañofundidoserealizaatemperaturaspor encimadelatemperaturadefusión(Tm)";F
+Elmartemperingotempleinterrumpidoseaplicasóloapiezassometidas auntemplesuperficial;F
+"Unaelevadavelocidaddeenfriamientopromuevelabuenacolabilidaddeunmetalatravésdela formacióndeunaestructuracolumnar";V
+Unconvertidordeoxígeno,LD,puededesulfurarydesfosforarelarrabioyutilizamineralesdehierro;F
+"Enelprocesodeseleccióndematerialesparaunaviga,minimizandosupeso, sellegaalíndicede prestacionesU/V^{} Podemosafirmarqueelcriteriodediseñopriorizalarigidezfrentealaresistencia";F
+"En los procesos de restauración y recristalización dinámicas, a mayor velocidad de deformación, se necesita menor esfuerzo para producir la misma deformación a una temperatura de deformación constante.";F
+Tocho, planchón y palanquilla son productos obtenidos de la colada continua de acero;V
+"El proceso de conformación para la obtención de raíles de tren es, principalmente, la laminación en caliente.";V
+"Durante un proceso de inyección de polímero amorfo, el material plástico se inyecta a una temperatura superior a T_{m} y el molde se mantiene a una temperatura por encima de T_{g} y por debajo de T_{m} .";F
+"Las materias primas del horno cubilote para la obtención de fundiciones de hierro son chatarra seleccionada, arrabio, coque y fundentes.";V
+"La densidad de una pieza metálica fabricada por la ruta pulvimetalúrgica se controla principalmente en la etapa de sinterización";F
+"El cemento Portland es una mezcla de arcilla, caliza y yeso. Este último se añade con la finalidad de retardar el fraguado";V
+"En el conformado de cerámicas, los cambios de volumen de la pieza tienen lugar tanto durante la etapa de secado como durante la etapa de cocción";V
+"En condiciones normales de moldeo, la solidificación empieza a la temperatura de fusión (T_{F} ) de la aleación.";F
+"El índice de prestaciones es la parte de la ecuación de prestaciones que tiene en cuenta las propiedades del material";V
+"La transformación alotrópica del aluminio posibilita su endurecimiento por tratamiento térmico de solubilización, temple y maduración.";F
+Las fundiciones ADI se obtienen por un tratamiento de austemplado de las fundiciones dúctiles.;V
+"En el proceso de obtención del acero, los productos de desbaste obtenidos en la colada en continuo no presentan rechupes";V
+"Un acero hipereutectoide austenizado y en estado de recocido presenta una microestructura formada por cementita y perlita.";V
+Los aceros de alta resistencia y baja aleación (aceros HSLA) endurecen solo por precipitación.;F
+"En un proceso de recocido contra acritud (o de recristalización) existe una primera etapa de restauración en la cual no se recuperan las propiedades mecánicas.";V
+"En la etapa de nucleación durante la solidificación de una aleación metálica, el tamaño crítico de los núcleos sólidos estables depende fundamentalmente del grado de subenfriamiento.";V
+Para reducir la fragilidad de la martensita se realiza un bonificado.;F
+En la colada en lingotera son necesarios grandes trenes desbastadores.;V
+"Las curvas TTT de los aceros se desplazan hacia la derecha cuanto menor es el tamaño de grano austenítico";F
+"La temperatura de transición dúctil-frágil de un acero disminuye al aumentar el contenido en carbono.";F
+"En el trefilado de alambres e hilos se utiliza alambrón como materia prima en estado de recocido y, posteriormente decapado.";V
+"En condiciones de tensión plana, un material romperá si el factor de intensidad de tensiones supera su tenacidad a fractura.";F
+Las cajas de laminación tipo “clústers” se emplean para la producción de tubos sin costura.;F
+La fractura por fatiga es de naturaleza frágil incluso en materiales dúctiles.;V
+"En un proceso de corrosión por aireación diferencial las zonas anódicas son las más ricas en oxígeno.";F
+"El proceso Mannesmann es un proceso de conformado en caliente porque se realiza por encima de la temperatura de recristalización del material.";V
+"El límite a fatiga de los aceros al carbono es aproximadamente el doble de su resistencia mecánica.";F
+"En una plancha galvanizada, el acero se comporta catódicamente (?? = ?0,763 ?? i / ?? = ?0,44 ??). /";V
+La cementación es un tratamiento térmico superficial con transformación isotérmica.;F
+"En la corrosión por picaduras (pitting), la velocidad de penetración disminuye al aumentar el área de la zona anódica";V
+"En un proceso de laminación, la deflexión de los cilindros puede producir pliegues en los bordes del producto laminado";V
+"Los nitruros de los elementos de aleación y los nitruros de hierro son los responsables de la gran dureza obtenida en la capa nitrurada.";F
+"El diseño tolerante al daño para estimar la vida a fatiga de los componentes está basado en las curvas S-N o curvas de Whöler.";F
+Las piezas carbonitruradas pueden trabajar a temperaturas más altas que las cementadas.;V
+"Cuanto mayor sea la velocidad de enfriamiento durante la solidificación de un polímero semicristalino, mayor será el grado de cristalinidad.";F
+"Respecto a la fabricación de los compuestos termoestables, una ventaja del moldeo por transferencia y moldeo por inyección-reacción es la menor temperatura de procesamiento en comparación con el moldeo por compresión.";V
+"Bajo las mismas condiciones de moldeo por inyección, las dimensiones de la cavidad del molde requeridas aumentan a medida que aumenta el peso molecular del polietileno.";F
+"En general las velocidades de cizalla son más altas en el moldeo por inyección y, por lo tanto, la viscosidad de un termoplástico fundido en el moldeo por compresión es mayor a la misma temperatura.";V
+"En los compuestos poliméricos de fibra continua y alineada, si la fuerza aplicada es perpendicular a las fibras, las tensiones en los dos componentes son iguales.";V

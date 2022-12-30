@@ -1,0 +1,6 @@
+certa,V
+falsa,F
+incorrecta,F
+correcta,V
+verdadera,V
+mentirosa,F
